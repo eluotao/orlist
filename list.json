@@ -1,0 +1,15 @@
+[
+    {
+        "id": "b72bfa91-305a-41b1-8f03-bd3bd0398731",
+        "title": "orlist 订单列表抓取",
+        "author": "eluotao",
+        "type": "frida",
+        "version": "1.0.0",
+        "ctime": "2026-11-16",
+        "desc": "Hook Gson 解析，打印订单列表接口 JSON",
+        "url": "https://raw.githubusercontent.com/eluotao/orlist/main/scripts/orlist/orlist.js",
+        "markdown": "https://raw.githubusercontent.com/eluotao/orlist/main/scripts/orlist/README.md",
+        "source": "https://github.com/eluotao/orlist/tree/main/scripts/orlist",
+        "down_count": 0
+    }
+]
